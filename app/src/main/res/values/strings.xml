@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="edit_text_string">Search Your Word</string>
+    <string name="button_text">find</string>
+    <string name="tools_definition">Definition</string>
+    <string name="str_back_description">Go Back to Main Menu</string>
+</resources>
