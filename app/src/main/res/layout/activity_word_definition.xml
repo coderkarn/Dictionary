@@ -20,8 +20,9 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:layout_margin="@dimen/margin_eight"
+        android:gravity="center"
         android:textColor="@color/black"
-        android:textSize="16dp"
+        android:textSize="24sp"
         tools:text="@string/tools_definition" />
 
 </RelativeLayout>
